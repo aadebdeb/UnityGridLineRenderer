@@ -1,0 +1,7 @@
+{
+  "name": "com.aadebdeb.gridlinerenderer",
+  "version": "1.0.0",
+  "displayName": "Grid Line Renderer",
+  "description": "Create grid line made of multiple LineRenderers.",
+  "license": "MIT"
+}
