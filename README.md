@@ -14,4 +14,4 @@ https://github.com/aadebdeb/UnityGridLineRenderer.git
 
 ## How to Use
 
-Add `GridLineRenderer` compoennt.
+Add `GridLineRenderer` component.
